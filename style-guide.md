@@ -1,13 +1,13 @@
 # Front-end Style Guide
 
-## Layout
+## Layout    //done
 
 The designs were created to the following widths:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-## Colors
+## Colors   //done
 
 - White: hsl(0, 0%, 100%)
 - Light gray: hsl(212, 45%, 89%)
@@ -16,11 +16,11 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Body Copy
+### Body Copy     //done
 
 - Font size (paragraph): 15px
 
-### Font
+### Font   //done
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
